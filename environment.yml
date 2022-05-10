@@ -1,0 +1,12 @@
+datalore-env-format-version: "0.2"
+datalore-package-manager: "pip"
+datalore-base-env: "default"
+dependencies:
+- pip:
+  - holidays==0.13
+  - folium==0.12.1
+  - sklego==0.0
+  - calplot==0.1.7.4
+  - jinja2==3.0.2
+  - flask==2.0.3
+  - jupyterthemes==0.20.0
